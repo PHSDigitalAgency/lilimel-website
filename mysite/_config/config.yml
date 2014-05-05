@@ -1,0 +1,144 @@
+---
+Name: mysite
+After: 'framework/*','cms/*'
+---
+RootURLController:
+  default_homepage_link: 'accueil'
+
+SSViewer:
+  theme: 'lilimel'
+
+SiteConfig:
+  extensions:
+    - SiteConfigExtension
+
+i18n:
+  common_languages:
+    fr_FR:
+      name: French
+      native: Français
+
+---
+Name: opengraphsettings
+---
+OpenGraph:
+  default_locale: 'fr_FR'
+
+---
+name: Admin
+---
+LeftAndMain:
+  extensions:
+    - 'LeftAndMainExtension'
+
+SeoConfig:
+    HomePage: true
+    NewsPage: true
+    BlogHolder: true
+    BlogTree: true
+    BlogEntry: true
+    CataloguePage: true
+    CatalogueHolderPage: true
+    AboutPage: true
+    Product: true
+    SubscriptionPage: true
+
+---
+name: Gallery
+---
+Image:
+  extensions: 
+    - 'Gallery_ImageExtension'
+HomePage:
+  extensions: 
+    - 'Gallery_PageExtension'
+AboutPage:
+  extensions:
+    - 'Gallery_PageExtension'
+
+---
+name: Blog
+---
+BlogHolder:
+  extensions:
+    - 'WidgetPageExtension'
+BlogTree:
+  extensions:
+    - 'WidgetPageExtension'
+BlogTree_Controller:
+  extensions:
+    - 'BlogTree_ControllerExtension'
+BlogEntry:
+  extensions:
+    - 'WidgetPageExtension'
+    - 'Gallery_PageExtension'
+    - 'BlogEntryExtension'
+
+---
+name: Comment
+---
+CommentingController:
+  extensions:
+    - 'CommentingControllerExtension'
+
+---
+Name: Product
+---
+Product:
+  extensions:
+    - 'ProductExtension'
+    - 'Gallery_PageExtension'
+ProductForm:
+  extensions:
+    - 'ProductFormExtension'
+# ShopAdmin:
+#   extensions:
+#     - 'ShopAdminExtension'
+
+---
+Name: Cart
+---
+CartForm:
+  extensions:
+    - 'CartFormExtension'
+
+---
+Name: Account Page
+---
+AccountPage_Controller:
+  extensions:
+    - 'AccountPageExtension'
+
+---
+Name: Order
+---
+OrderForm:
+  extensions:
+    - 'OrderFormExtension'
+RepayForm:
+  extensions:
+    - 'RepayFormExtension'
+Order:
+  extensions:
+    - 'OrderExtension'
+
+---
+Name: User defined form
+---
+UserDefinedForm_Controller:
+  extensions:
+    - 'UserDefinedFormExtension_Controller'
+
+Newsletter:
+  extensions:
+    - 'NewsletterExtension'
+NewsletterEmail:
+  extensions:
+    - 'NewsletterEmailExtension'
+
+---
+Name: Coupon
+---
+Coupon:
+  extensions:
+    - 'CouponExtension'

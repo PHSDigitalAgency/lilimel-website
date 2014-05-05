@@ -1,0 +1,135 @@
+en:
+  ShopReportAdmin:
+    MENUTITLE: 'Shop Reports'
+  AboutPage:
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: 'About Pags'
+    SINGULARNAME: 'About Page'
+  AboutPage_Images:
+    PLURALNAME: 'About Page Imagess'
+    SINGULARNAME: 'About Page Images'
+  AccountPageExtension:
+    CUSTOMER_EMAIL: 'Customer email: '
+    CUSTOMER_NAME: 'Customer name: '
+    HISTORY: 'Your Order History'
+    ORDER: 'Order {title}'
+  AssetUploadField:
+    DROPAREA: 'Drop Area'
+    UPLOADOR: OR
+  BlogEntry_Images:
+    PLURALNAME: 'Blog Entry Imagess'
+    SINGULARNAME: 'Blog Entry Images'
+  CMSMain:
+    ACCESS: 'Access to ''{title}'' section'
+  CartForm:
+    GO_TO_CHECKOUT: 'Go To Checkout'
+    UPDATE_CART: 'Update Cart'
+  CartFormExtension:
+    ITEM_QUANTITY_OVER_STOCK: 'Not enough stock. You can order only {quantity} items'
+  CatalogueHolderPage:
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: 'Catalogue Holder Pags'
+    SINGULARNAME: 'Catalogue Holder Page'
+  CataloguePage:
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: 'Catalogue Pags'
+    SINGULARNAME: 'Catalogue Page'
+  File:
+    INVALIDEXTENSIONSHORT: 'Extension is not allowed'
+    TOOLARGESHORT: 'Filesize exceeds {size}'
+  FileIFrameField:
+    ATTACHONCESAVED2: 'Files can be attached once you have saved the record for the first time.'
+  HomePage:
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: 'Home Pags'
+    SINGULARNAME: 'Home Page'
+  HomePage_Images:
+    PLURALNAME: 'Home Page Imagess'
+    SINGULARNAME: 'Home Page Images'
+  NewsPage:
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: 'News Pags'
+    SINGULARNAME: 'News Page'
+  OrderFormExtension:
+    ADDRESS2: 'Address 2'
+    ALREADY_MEMBER: 'If you are already a member please %s log in. %s'
+    NOTE: 'NOTE:'
+    PAYMENT: Payment
+    PLEASE_CHOOSE_PASSWORD: 'Please choose a password, so you can login and check your order history in the future.'
+    PLEASE_SELECT_PAYMENT_METHOD: 'Please select a payment method.'
+    SELECT_PAYMENT_METHOD: 'Select Payment Method'
+  Page:
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: Pags
+    SINGULARNAME: Page
+  Permission:
+    CMS_ACCESS_CATEGORY: 'CMS Access'
+  Product.ss:
+    NOSTOCK: 'This product is not in stock. Please <a href=''{url}'' title=''Contact Us''>contact us</a> for more detail.'
+  ProductExtension:
+    ADVANTAGE: Advantage
+    ADVICE: Advice
+    CONTENT: Content
+    DESCRIPTION: Description
+    FeaturedProduct: 'Featured product ?'
+    NEW: New
+    NO: No
+    PRICEWITHOUTREDUCTION: 'Price without reduction'
+    SALE: Sale
+    STOCK: Stock
+    TITLE: Title
+    WEIGHT_AND_DIMENSIONS: 'Weight and Dimensions'
+    YES: Yes
+  ProductFormExtension:
+    ADD_TO_CART: 'Add to Cart'
+    ITEM_QUANTITY_OVER_STOCK: 'Not enough stock. You can order only {quantity} items'
+    QUANTITY: Quantity
+  Product_Images:
+    PLURALNAME: 'Product Imagess'
+    SINGULARNAME: 'Product Images'
+  RepayFormExtension:
+    PAYMENT: Payment
+    PLEASE_SELECT_PAYMENT_METHOD: 'Please select a payment method.'
+    SELECT_PAYMENT_METHOD: 'Select Payment Method'
+  SideReport:
+    ContentGroupTitle: 'Content reports'
+    EMPTYMETADESCRIPTION: 'Pages without meta-description'
+    FEATUREDPRODUCTS: 'Featured products'
+    NEWPRODUCTS: 'New products'
+    NODEFINEDPRICE: 'Products with no defined price'
+    OUTOFSTOCK: 'Out of stock products'
+    SALEPRODUCTS: 'Sale products'
+  SiteConfigExtension:
+    COPYRIGHT: Copyright
+    EMAILS: Emails
+    FACEBOOKURL: 'Facebook URL'
+    LOGO: Logo
+    TWITTERURL: 'Twitter URL'
+  SiteTree:
+    PLURALNAME: Pages
+    SINGULARNAME: Page
+  SubscriptionPage:
+    PleaseEnter: 'Please enter your %s field'
+    To: 'Subscribe to:'
+    ValidEmail: 'Please enter your email address'
+  SubscriptionPageExtended:
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: 'Newsletter Subscription Pages'
+    SINGULARNAME: 'Newsletter Subscription Page'
+  UnsubscriptionPageExtended:
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: 'Unsubscription Page Extendeds'
+    SINGULARNAME: 'Unsubscription Page Extended'
+  UploadField:
+    ATTACHFILE: 'Attach a file'
+    ATTACHFILES: 'Attach files'
+    DOEDIT: Save
+    DROPFILE: 'drop a file'
+    DROPFILES: 'drop files'
+    FROMCOMPUTER: 'From your computer'
+    FROMCOMPUTERINFO: 'Upload from your computer'
+    FROMFILES: 'From files'
+    MAXNUMBEROFFILESSHORT: 'Can only upload {count} files'
+    STARTALL: 'Start all'
+    STARTALLINFO: 'Start all uploads'
+    Saved: Saved

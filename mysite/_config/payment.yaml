@@ -1,0 +1,38 @@
+---
+Name: Payment
+---
+PaymentGateway:
+  environment:
+    'dev'
+
+PaymentProcessor:
+  supported_methods:
+    dev:
+      - 'Sips'
+      - 'PayPalExpress'
+      - 'Cheque'
+    live:
+     - 'Sips'
+     # - 'PayPalExpress'
+     - 'Cheque'
+
+PayPalGateway:
+  supported_currencies: ['EUR']
+
+SipsGateway:
+  supported_currencies: ['EUR']
+  
+ChequeGateway:
+  supported_currencies: ['EUR']
+
+PayPalGateway_Express: 
+  # live:
+  #   authentication:
+  #     username: ''
+  #     password: ''
+  #     signature: ''
+  dev:
+    authentication:
+      username: 'yvestrublin_api1.gmail.com'
+      password: '1394875008'
+      signature: 'AThiZVocJsnZ4XJv.PtFh0LmkwR.ANXmrPhEwkzvr2qqCOlqyMua-Oq1'

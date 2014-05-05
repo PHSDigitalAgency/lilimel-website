@@ -1,0 +1,9 @@
+.no-stock a .jstree-pageicon{
+	background: url(../images/icons/page_error.png) no-repeat top left;
+}
+.class-CartPage a .jstree-pageicon{
+	background-position: 0 -97px;
+}
+.class-CheckoutPage a .jstree-pageicon{
+	background-position: 0 -128px;
+}

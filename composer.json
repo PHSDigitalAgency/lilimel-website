@@ -1,0 +1,39 @@
+{
+	"name": "silverstripe/installer",
+	"description": "The SilverStripe Framework Installer",
+	"require": {
+		"php": ">=5.3.2",
+		"silverstripe/cms": "3.1.4",
+		"silverstripe/framework": "3.1.4",
+		"silverstripe/userforms": "dev-master",
+		"silverstripe/googlesitemaps": "dev-master",
+		"silverstripe/multivaluefield": "dev-master",
+		"silverstripe/newsletter": "dev-master",
+		"silverstripe/messagequeue": "dev-master",
+		"silverstripe/blog": "dev-master",
+		"silverstripe/comments": "dev-master",
+		"silverstripe/widgets": "dev-master",
+		"silverstripe/dashboard": "dev-master",
+		"silverstripe/payment": "1.0.*@dev",
+		"swipestripe/swipestripe": "2.1.*@dev",
+		"swipestripe/swipestripe-addresses": "2.1.*@dev",
+		"swipestripe/swipestripe-flatfeetax": "2.1.*@dev",
+		"swipestripe/swipestripe-flatfeeshipping": "2.1.*@dev",
+		"swipestripe/swipestripe-coupon": "2.1.*@dev",
+		"frankmullenger/payment-cheque": "dev-master",
+		"frankmullenger/payment-test": "dev-master",
+		"sheadawson/silverstripe-linkable": "dev-master",
+		"sheadawson/silverstripe-dependentdropdownfield": "dev-master",
+		"tractorcow/silverstripe-opengraph": "3.1.*@dev",
+		"bummzack/sortablefile": "dev-master",
+		"unclecheese/betterbuttons": "dev-master",
+		"unclecheese/kickassets": "dev-master",
+		"rywa/silverstripe-foundation-forms": "dev-master",
+		"hubertusanton/silverstripe-seo": "dev-master",
+		"richardsjoqvist/silverstripe-localdate": "dev-master"
+	},
+	"config": {
+		"process-timeout": 600
+	},
+	"minimum-stability": "dev"
+}

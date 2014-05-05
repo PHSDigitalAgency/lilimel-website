@@ -1,0 +1,326 @@
+fr:
+  ShopReportAdmin:
+    MENUTITLE: 'Rapports de la boutique'
+  AboutPage:
+    DESCRIPTION: 'Page A propos'
+    PLURALNAME: 'Pages A propos'
+    SINGULARNAME: 'Page A propos'
+  AboutPage_Images:
+    PLURALNAME: 'Images Page A propos'
+    SINGULARNAME: 'Image Page A propos'
+  AccountPageExtension:
+    CUSTOMER_EMAIL: 'Email client : '
+    CUSTOMER_NAME: 'Nom client: '
+    HISTORY: 'Historique de vos commandes'
+    ORDER: 'Commande {title}'
+  AssetUploadField:
+    DROPAREA: 'Zone de dépôt'
+    UPLOADOR: OU
+  BlogEntry_Images:
+    PLURALNAME: 'Images Entrée Blog'
+    SINGULARNAME: 'Image Entrée Blog'
+  CMSMain:
+    ACCESS: 'Accéder à la section ''{title}'''
+  CartForm:
+    GO_TO_CHECKOUT: 'Payer'
+    UPDATE_CART: 'Mettre à jour'
+  CartFormExtension:
+    ITEM_QUANTITY_OVER_STOCK: 'Le stock est insuffisant. Vous pouvez commander jusqu''à {quantity} article(s)'
+  CatalogueHolderPage:
+    DESCRIPTION: 'Contenu Page Catalogue listing'
+    PLURALNAME: 'Pages Catalogue listing'
+    SINGULARNAME: 'Page Catalogue listing'
+  CataloguePage:
+    DESCRIPTION: 'Contenu page Catalogue'
+    PLURALNAME: 'Pages Catalogue'
+    SINGULARNAME: 'Page Catalogue'
+  File:
+    INVALIDEXTENSIONSHORT: 'Extension is not allowed'
+    TOOLARGESHORT: 'Filesize exceeds {size}'
+  FileIFrameField:
+    ATTACHONCESAVED2: 'Files can be attached once you have saved the record for the first time.'
+  HomePage:
+    DESCRIPTION: 'Contenu Page Accueil'
+    PLURALNAME: 'Pages Accueil'
+    SINGULARNAME: 'Page Accueil'
+  HomePage_Images:
+    PLURALNAME: 'Images Page Accueil'
+    SINGULARNAME: 'Image Page Accueil'
+  NewsPage:
+    DESCRIPTION: 'Contenu Page News'
+    PLURALNAME: 'Pages News'
+    SINGULARNAME: 'Page News'
+  OrderFormExtension:
+    ADDRESS2: 'Adresse 2'
+    ALREADY_MEMBER: 'Si vous êtes déjà client, veuillez vous %s connecter. %s'
+    NOTE: 'NOTE&nbsp;:'
+    PAYMENT: 'Choisissez votre mode de paiement'
+    PLEASE_CHOOSE_PASSWORD: 'entrez votre email et choisissez un mot de passe.'
+    PLEASE_SELECT_PAYMENT_METHOD: 'Veuillez sélectionner une méthode de paiement.'
+    SELECT_PAYMENT_METHOD: 'Sélectionnez une méthode de paiement.'
+  Page:
+    DESCRIPTION: 'Contenu Page Standard'
+    PLURALNAME: Pages
+    SINGULARNAME: Page
+  Permission:
+    CMS_ACCESS_CATEGORY: 'Accès au CMS'
+  Product.ss:
+    NOSTOCK: 'Cet article n''est plus en stock. <a href=''{url}'' title=''Contactez-nous''>Contactez-nous</a> pour plus de détails.'
+  ProductExtension:
+    ADVANTAGE: Avantages
+    ADVICE: Conseils
+    CONTENT: Contenu
+    DESCRIPTION: Description
+    FeaturedProduct: 'Article vedette ?'
+    NEW: Nouveau
+    NO: Non
+    PRICEWITHOUTREDUCTION: 'Prix sans réduction'
+    SALE: Solde
+    STOCK: Stock
+    TITLE: Titre
+    WEIGHT_AND_DIMENSIONS: 'Poids et Dimensions'
+    YES: Oui
+  ProductFormExtension:
+    ADD_TO_CART: 'Ajouter au panier'
+    ITEM_QUANTITY_OVER_STOCK: 'Le stock est insuffisant. Vous pouvez commander jusqu''à {quantity} article(s)'
+    QUANTITY: Quantité
+  Product_Images:
+    PLURALNAME: 'Images Article'
+    SINGULARNAME: 'Image Article'
+  RepayFormExtension:
+    PAYMENT: Paiement
+    PLEASE_SELECT_PAYMENT_METHOD: 'Veuillez sélectionner une méthode de paiement.'
+    SELECT_PAYMENT_METHOD: 'Sélectionnez une méthode de paiement.'
+  SideReport:
+    ContentGroupTitle: 'Contenu des rapports'
+    EMPTYMETADESCRIPTION: 'Pages sans méta-description'
+    FEATUREDPRODUCTS: 'Articles vedettes'
+    NEWPRODUCTS: 'Nouveaux articles'
+    NODEFINEDPRICE: 'Articles sans prix défini'
+    OUTOFSTOCK: 'Articles en rupture de stock'
+    SALEPRODUCTS: 'Articles en promotion'
+  SiteConfigExtension:
+    COPYRIGHT: Copyright
+    EMAILS: Emails
+    FACEBOOKURL: 'URL Facebook'
+    LOGO: Logo
+    TWITTERURL: 'URL Twitter'
+  SiteTree:
+    PLURALNAME: Pages
+    SINGULARNAME: Page
+  SubscriptionPage:
+    PleaseEnter: 'Veuillez entrer votre %s.'
+    To: 'Souscrire à :'
+    ValidEmail: 'Veuillez entrer un email valide.'
+  SubscriptionPageExtended:
+    DESCRIPTION: 'Contenu Page souscription newsletter'
+    PLURALNAME: 'Pages souscription newsletter'
+    SINGULARNAME: 'Page souscription newsletter'
+  UnsubscriptionPageExtended:
+    DESCRIPTION: 'Contenu Page désinscription newsletter'
+    PLURALNAME: 'Pages désinscription newsletter'
+    SINGULARNAME: 'Page désinscription newsletter'
+  UploadField:
+    ATTACHFILE: 'Attacher un fichier'
+    ATTACHFILES: 'Attacher plusieurs fichiers'
+    DOEDIT: Sauvegarder
+    DROPFILE: 'Déposer un fichier'
+    DROPFILES: 'Déposer plusieurs fichiers'
+    FROMCOMPUTER: 'Depuis votre ordinateur'
+    FROMCOMPUTERINFO: 'Télécharger depuis votre ordinateur'
+    FROMFILES: 'Depuis les fichiers'
+    MAXNUMBEROFFILESSHORT: 'Vous pouvez télécharger jusqu''à {count} fichiers'
+    STARTALL: 'Tout démarrer'
+    STARTALLINFO: 'Démarre touts les téléchargements'
+    Saved: Sauvegardé
+  Newsletter:
+    ConfirmSubject: 'Confirmation de votre inscription à notre Newsletter'
+    SubscriptionSubmitted: 'Inscription réussie&nbsp;!'
+    VerifySubject: 'Merci de votre inscription à notre newsletter, veuillez vérifier votre adresse email'
+    DEAR: Cher
+    VerificationExpiredContent2: 'Veuillez envoyer à nouveau le formulaire d''inscription si vous voulez toujours vous inscrire à notre newsletter.'
+    SubscritionSubmittedContent2: 'Le lien de vérification sera valide pendant %s jours. Si vous ne souhaitez pas vous inscrire, veuillez ignorer l''email de vérifiaction.'
+  Coupon:
+    AS_FIXED_AMOUNT: 'Montant fixe (ex: 13.50)'
+    CODE: Code
+    COUPON: Coupon
+    COUPON_CODE_LABEL: 'Entrez le code de votre coupon'
+    DISCOUNT: 'Coupon réduction'
+    FIXED_DISCOUNT: 'Coupon réduction fixe'
+    PLURALNAME: Coupons
+    SINGULARNAME: Coupon
+    SUMMARY_DISCOUNT: réduction
+    TITLE: Titre
+  CouponField:
+    APPLY: Valider
+    TEXT_COUPON: 'Si vous avez en votre possession un code de réduction Lilimel, c''est ici que vous devez le saisir.'
+  ShopAdmin:
+    MENUTITLE: Boutique
+  ShopAdmin_Attribute:
+    MENUTITLE: 'Attributs Article'
+  ShopAdmin_BaseCurrency:
+    MENUTITLE: 'Devise de base'
+  ShopAdmin_EmailAdmin:
+    MENUTITLE: 'Emails de la boutique'
+  AccountPage:
+    CANNOT_VIEW_ORDER: 'Vous ne pouvez pas afficher les commandes qui ne vous appartiennent pas.'
+    DATE: Date
+    DESCRIPTION: 'Contenu Page Mon Compte'
+    NO_ORDERS: 'Vous n''avez actuellement pas de commandes. À l''avenir, vous serez en mesure de voir vos commandes récentes à partir d''ici.'
+    NO_ORDER_EXISTS: 'Cette commande n''existe pas.'
+    PLURALNAME: 'Pages Mon Compte'
+    SINGULARNAME: 'Page Mon Compte'
+    STATUS: Statut
+    TOTAL: Total
+    VIEW_THIS_ORDER: 'Détails de la commande'
+  AccountPage_order:
+    WARNING: 'Attention&nbsp;!'
+  Attribute:
+    PLURALNAME: Attributs
+    SINGULARNAME: Attribut
+  Attribute_Default:
+    PLURALNAME: Attributs
+    SINGULARNAME: Attribut
+  BackLink_Button_ss:
+    Back: Retour
+  CMSLoadingScreen_ss:
+    LOADING: 'Chargement&nbsp;...'
+    REQUIREJS: 'Vous devez activer Javascript pour utiliser l''administration du CMS.'
+  CartForm:
+    GO_TO_CHECKOUT: 'Payer'
+    NOTE: 'Note&nbsp;:'
+    NO_ITEMS_IN_CART: 'Il n''y a pas d''article dans votre panier.'
+    POWERED_BY: 'propulsé par'
+    PRICE: Prix
+    PRODUCT: Article
+    QUANTITY: Quantité
+    TOTAL: Total
+    UPDATE_CART: 'Mettre à jour'
+  CartPage:
+    DESCRIPTION: 'Contenu Page Panier'
+    PLURALNAME: 'Pages Panier'
+    SINGULARNAME: 'Pager Panier'
+  CheckoutFormOrder:
+    LOADING: 'Chargement&nbsp;...'
+    NO_ITEMS_IN_CART: 'Il n''y a pas d''article dans votre panier.'
+    PRICE: Prix
+    PRODUCT: Article
+    QUANTITY: Quantité
+    SUB_TOTAL: 'Sous-total'
+    TOTAL: Total
+    YOUR_ORDER: 'Votre Commande'
+  CheckoutPage:
+    ACCOUNT: 'Créer un compte (nouveau client)'
+    ALREADY_MEMBER: 'Si vous êtes déjà client, veuillez vous %s connecter. %s'
+    DESCRIPTION: 'Contenu Page Paiement'
+    EMAIL: Email
+    MEMBER_ALREADY_EXISTS: 'Désolé un client utilise déjà cette adresse email. Si c''est bien votre adresse email, veuillez-vous connecter avant de finaliser votre commande.'
+    NOTE: 'NOTE&nbsp;:'
+    NOTES_ABOUT_ORDER: 'Notes à propos de cette commande'
+    NOT_VALID_METHOD: 'Désolé, ce n''est pas une méthode de paiement valide.'
+    PASSWORD: 'Mot-de-passe'
+    PAYMENT: Paiement
+    PLEASE_CHOOSE_PASSWORD: 'entrez votre email et choisissez un mot de passe.'
+    PLEASE_ENTER_EMAIL_ADDRESS: 'Veuillez saisir votre adresse email.'
+    PLURALNAME: 'Pages Paiement'
+    PROCEED_TO_PAY: 'Confirmer le paiement'
+    SELECT_PAYMENT_METHOD: 'Veuillez sélectionner une méthode de paiement.'
+    SINGULARNAME: 'Page Paiement'
+    TRY_AGAIN: 'Veuillez revenir en arrière et essayer à nouveau.'
+  Customer:
+    PLURALNAME: Clients
+    SINGULARNAME: Client
+  Form:
+    ITEM_IS_NOT_IN_ORDER: 'Cet article n''est pas dans la commande.'
+    ITEM_QUANTITY_INCORRECT: 'La quantité doit être inférieure à 2,147,483,647'
+    ITEM_QUANTITY_LESS_ONE: 'La quantité doit être au moins 0'
+    ORDER_IS_NOT_VALID: 'Votre panier est vide, veuillez ajouter un article de la boutique'
+    VALIDATIONFAILED: 'La validation à échoué'
+  GridFieldDetailForm:
+    CancelBtn: Annuler
+    Create: Créer
+    Delete: Supprimer
+    Save: Sauvegarder
+  Item:
+    PLURALNAME: Articles
+    SINGULARNAME: Article
+  ItemOption:
+    PLURALNAME: 'Options de l''article'
+    SINGULARNAME: 'Option de l''article'
+  LeftAndMain:
+    PreviewButton: Preview
+  Modification:
+    PLURALNAME: Modifications
+    SINGULARNAME: Modification
+  Option:
+    PLURALNAME: Options
+    SINGULARNAME: Option
+  Option_Default:
+    PLURALNAME: Options
+    SINGULARNAME: Option
+  Order:
+    PLURALNAME: Commandes
+    PRICE: Prix
+    PRODUCT: Article
+    QUANTITY: Quantité
+    SINGULARNAME: Commande
+    SUB_TOTAL: 'Sous-total'
+    TOTAL: Total
+  OrderAdmin:
+    ORDER: Commande
+  OrderNotes:
+    NOTES: Notes
+  OrderPayments:
+    AMOUNT: Montant
+    DATE: Date
+    PAYMENT: Paiement
+    PAYMENT_STATUS: 'Statut du paiement'
+    TOTAL_OUTSTANDING: 'Total impayé'
+  Order_NotificationEmail:
+    LOGIN: 'Connectez-vous au CMS pour gérer cette commande.'
+    ORDER: Commande
+  Order_ReceiptEmail:
+    GREETING: Bonjour
+    ORDER: Commande
+    PAYMENTNOTICE: 'Veuillez noter que la commande sera envoyé uniquement après un paiement traité avec succés.'
+    VIEW_ORDER: 'Détails de la commande'
+  Order_Update:
+    PLURALNAME: 'Mises-à-jour'
+    SINGULARNAME: 'Mise-à-jour'
+  Product:
+    DESCRIPTION: 'Contenu Page Article'
+    FREE: Gratuit
+    PLURALNAME: Articles
+    SINGULARNAME: Article
+  ProductForm:
+    ADD_TO_CART: 'Ajouter au panier'
+    BASE_CURRENCY_NOT_SET: 'Le choix de la monnaie n''est pas renseigné.'
+    ITEM_QUANTITY_INCORRECT: 'La quantité doit être inférieure à 2,147,483,647'
+    ITEM_QUANTITY_LESS_ONE: 'La quantité doit être supérieure à 1'
+    PRODUCT_ADDED: 'L''article a été ajouté à votre panier.'
+    PRODUCT_ADDED_LINK: 'L''article a été ajouté à {openanchor}votre panier{closeanchor}.'
+    QUANTITY: Quantité
+    VARIATIONS_REQUIRED: 'Cet article nécessite un choix d''options avant d''être ajouté au panier.'
+  ShopConfig:
+    BASE_CURRENCY: 'Monnaie de base'
+    BASE_CURRENCY_SYMBOL: 'Symbole de la monnaie de base'
+    BASE_CURRENCY_WARNING: "\n         Attention&nbsp;: La monnaie de base n''est pas renseignée, veuillez sélectionner la monnaie de base dans les réglages de la boutique avant de commencer.\n    "
+    FROM: De
+    MESSAGE: Message
+    MESSAGE_DETAILS: 'Les détails de la commande sont inclus dans le mail sous ce message.'
+    NOTIFICATION_FROM: 'Adresse email du client'
+    PLURALNAME: Réglages
+    RECEIPT_TO: 'Envoyer au client'
+    SIGNATURE: Signature
+    SINGULARNAME: Réglage
+    SUBJECT_LINE: 'Sujet'
+    TO: À
+  SiteTree:
+    PLURALNAME: Pages
+    SINGULARNAME: Page
+  Variation:
+    PLURALNAME: Variations
+    SINGULARNAME: Variation
+  Variation_Options:
+    PLURALNAME: 'Options de la variation'
+    SINGULARNAME: 'Option de la variation'
